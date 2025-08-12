@@ -51,19 +51,6 @@ leetcode-python-forge/
 
 ---
 
-## 📝 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/shefa19/leetcode-python-forge.git
-   ```
-2. Navigate to the folder:
-   ```bash
-   cd leetcode-python-forge
-   ```
-3. Explore folders based on the solving date.
-
----
-
 ## 🌟 Motivation
 This repo is not just about solving problems — it’s about **discipline, practice, and growth** as a programmer.
 
