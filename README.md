@@ -24,20 +24,23 @@ This repository reflects my commitment to consistent problem-solving, clean code
 
 ## 📁 Folder Structure
 
+---
+
 leetcode-python-forge/
 ├── easy/
-│ ├── 2025-08-12/
-│ │ ├── two_sum.py
-│ │ ├── palindrome_number.py
-│ ├── 2025-08-13/
-│ │ ├── reverse_integer.py
-├── medium/
-│ ├── 2025-08-12/
-│ │ ├── add_two_numbers.py
+| ├── 2025-08-13/
+| | ├── 2235_add_two_integers.py
+| | ├── 3110_score_of_a_string.py
+├── medium
+| ├── 2025-08-12/
+| | ├──2_add_two_numbers.py
+├── hard/
+| ├── 2025-08-13/
+| | ├──233_number_of_digit_one.py
+| | ├──296_best_meating_point.py
 ├── README.md
 
 ---
-
 
 - 🔹 Problems are grouped by **difficulty level**  
 - 📅 Each level contains folders by **solving date**  
