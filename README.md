@@ -23,9 +23,6 @@ This repository reflects my commitment to consistent problem-solving, clean code
 ---
 
 ## 📁 Folder Structure
-
----
-
 leetcode-python-forge/
 ├── easy/
 | ├── 2025-08-13/
