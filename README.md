@@ -76,6 +76,7 @@ python easy/2025-08-12/two_sum.py
 | 2025-08-26 | Easy   | 1572 |
 | 2025-08-27 | Medium   | 238 |
 | 2025-08-28 | Easy , Medium | 258, 167 |
+| 2025-08-29 | Easy | 387 |
 
 ---
 
@@ -97,7 +98,7 @@ python easy/2025-08-12/two_sum.py
 ## 🙋‍♂️ Author
 
 **Shefaul Islam Shefa**  
-_Backend Developer | Competitive Programmer | Creative Technologist_
+_Aspiring Software Engineer | Competitive Programmer | Creative Technologist_
 
 ✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)
 
