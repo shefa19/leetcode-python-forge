@@ -83,6 +83,7 @@ python easy/2025-08-12/two_sum.py
 | 2025-09-02 | Medium   | 26 |
 | 2025-09-03 | Medium   | 347 |
 | 2025-09-04 | Easy , Medium | 35, 50 |
+| 2025-09-05 | Medium   | 49 |
 
 ---
 
