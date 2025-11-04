@@ -24,6 +24,7 @@ This repository reflects my commitment to consistent problem-solving, clean code
 
 ## 📁 Folder Structure
 
+```
 leetcode-python-forge/
 ├── easy/
 │   ├── 2025-08-13/
@@ -40,14 +41,38 @@ leetcode-python-forge/
 │   │   ├── 296_best_meating_point.py
 │
 ├── README.md
+```
 
 ---
 
-- 🔹 Problems are grouped by **difficulty level**  
-- 📅 Each level contains folders by **solving date**  
-- 🧾 Each `.py` file includes clean code **  
+## 🧠 About
+
+- Each problem is solved in a clean, well-commented Python file.
+- Problems are organized by difficulty (`easy`, `medium`, `hard`).
+- Subfolders are dated for consistent daily practice tracking.
 
 ---
+
+## 🚀 Goals
+
+- Practice **daily** coding problems.
+- Improve problem-solving and algorithmic thinking.
+- Build a strong foundation for **technical interviews**.
+
+---
+
+## 📅 Example Usage
+
+```bash
+# Navigate to problem folder
+cd easy/2025-08-13/
+
+# Run a specific problem
+python 2235_add_two_integers.py
+```
+
+---
+
 
 ## 🛠 Technologies Used
 - **Python 3**
