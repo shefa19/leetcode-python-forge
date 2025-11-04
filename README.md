@@ -53,14 +53,6 @@ leetcode-python-forge/
 
 ---
 
-## 🚀 Goals
-
-- Practice **daily** coding problems.
-- Improve problem-solving and algorithmic thinking.
-- Build a strong foundation for **technical interviews**.
-
----
-
 ## 📅 Example Usage
 
 ```bash
@@ -179,14 +171,11 @@ python easy/2025-08-12/two_sum.py
 
 ---
 
-🎯 Goals
-🧠 Solve one LeetCode problem daily in Python
+## 🚀 Goals
 
-📚 Organize solutions with Bengali explanations for learners
-
-🛠️ Maintain a clean, auto-updating portfolio
-
-🌍 Share progress publicly to inspire others
+- Practice **daily** coding problems.
+- Improve problem-solving and algorithmic thinking.
+- Build a strong foundation for **technical interviews**.
 
 ---
 
