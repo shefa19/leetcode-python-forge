@@ -23,18 +23,22 @@ This repository reflects my commitment to consistent problem-solving, clean code
 ---
 
 ## 📁 Folder Structure
+
 leetcode-python-forge/
 ├── easy/
-| ├── 2025-08-13/
-| | ├── 2235_add_two_integers.py
-| | ├── 3110_score_of_a_string.py
-├── medium
-| ├── 2025-08-12/
-| | ├──2_add_two_numbers.py
+│   ├── 2025-08-13/
+│   │   ├── 2235_add_two_integers.py
+│   │   ├── 3110_score_of_a_string.py
+│
+├── medium/
+│   ├── 2025-08-12/
+│   │   ├── 2_add_two_numbers.py
+│
 ├── hard/
-| ├── 2025-08-13/
-| | ├──233_number_of_digit_one.py
-| | ├──296_best_meating_point.py
+│   ├── 2025-08-13/
+│   │   ├── 233_number_of_digit_one.py
+│   │   ├── 296_best_meating_point.py
+│
 ├── README.md
 
 ---
@@ -143,6 +147,7 @@ python easy/2025-08-12/two_sum.py
 | 2025-11-01 | Easy | 2185 & 2418 |
 | 2025-11-02 | Easy | 1935 & 2828 |
 | 2025-11-03 | Easy | 2053 & 2678 |
+| 2025-11-04 | Easy | 1812 & 3461|
 ---
 
 📌 **Platform:** [LeetCode](https://leetcode.com/u/shefa19/)
