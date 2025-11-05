@@ -23,27 +23,48 @@ This repository reflects my commitment to consistent problem-solving, clean code
 ---
 
 ## 📁 Folder Structure
+
+```
 leetcode-python-forge/
 ├── easy/
-| ├── 2025-08-13/
-| | ├── 2235_add_two_integers.py
-| | ├── 3110_score_of_a_string.py
-├── medium
-| ├── 2025-08-12/
-| | ├──2_add_two_numbers.py
+│   ├── 2025-08-13/
+│   │   ├── 2235_add_two_integers.py
+│   │   ├── 3110_score_of_a_string.py
+│
+├── medium/
+│   ├── 2025-08-12/
+│   │   ├── 2_add_two_numbers.py
+│
 ├── hard/
-| ├── 2025-08-13/
-| | ├──233_number_of_digit_one.py
-| | ├──296_best_meating_point.py
+│   ├── 2025-08-13/
+│   │   ├── 233_number_of_digit_one.py
+│   │   ├── 296_best_meating_point.py
+│
 ├── README.md
+```
 
 ---
 
-- 🔹 Problems are grouped by **difficulty level**  
-- 📅 Each level contains folders by **solving date**  
-- 🧾 Each `.py` file includes clean code **  
+## 🧠 About
+
+- Each problem is solved in a clean, well-commented Python file.
+- Problems are organized by difficulty (`easy`, `medium`, `hard`).
+- Subfolders are dated for consistent daily practice tracking.
 
 ---
+
+## 📅 Example Usage
+
+```bash
+# Navigate to problem folder
+cd easy/2025-08-13/
+
+# Run a specific problem
+python 2235_add_two_integers.py
+```
+
+---
+
 
 ## 🛠 Technologies Used
 - **Python 3**
@@ -143,20 +164,18 @@ python easy/2025-08-12/two_sum.py
 | 2025-11-01 | Easy | 2185 & 2418 |
 | 2025-11-02 | Easy | 1935 & 2828 |
 | 2025-11-03 | Easy | 2053 & 2678 |
+| 2025-11-04 | Easy | 1812 & 3461|
 ---
 
 📌 **Platform:** [LeetCode](https://leetcode.com/u/shefa19/)
 
 ---
 
-🎯 Goals
-🧠 Solve one LeetCode problem daily in Python
+## 🚀 Goals
 
-📚 Organize solutions with Bengali explanations for learners
-
-🛠️ Maintain a clean, auto-updating portfolio
-
-🌍 Share progress publicly to inspire others
+- Practice **daily** coding problems.
+- Improve problem-solving and algorithmic thinking.
+- Build a strong foundation for **technical interviews**.
 
 ---
 
