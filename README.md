@@ -192,7 +192,7 @@ python easy/2025-08-12/two_sum.py
 ## 🙋‍♂️ Author
 
 **Shefaul Islam Shefa**  
-_Aspiring Software Engineer | Competitive Programmer | Creative Technologist_
+_AI & Machine Learning Explorer | Passionate About Data-Driven Research & Innovation_
 
 ✉️ Email: [sishefa19@gmail.com](mailto:sishefa19@gmail.com)
 
