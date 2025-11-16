@@ -175,6 +175,7 @@ python easy/2025-08-12/two_sum.py
 | 2025-11-12 | Easy | 1005 & 1051 |
 | 2025-11-13 | Easy | 1385 & 1502 |
 | 2025-11-14 | Easy | 350 & 414 |
+| 2025-11-15 | Easy | 455 |
 ---
 
 📌 **Platform:** [LeetCode](https://leetcode.com/u/shefa19/)
