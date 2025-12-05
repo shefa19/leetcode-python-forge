@@ -194,6 +194,7 @@ python easy/2025-08-12/two_sum.py
 | 2025-12-01 | Easy | 1351, 2089  & 2540 |
 | 2025-12-02 | Easy | 888 & 2283 |
 | 2025-12-03 | Easy | 1394 & 3663 |
+| 2025-12-04 | Easy | 2404 |
 ---
 
 📌 **Platform:** [LeetCode](https://leetcode.com/u/shefa19/)
