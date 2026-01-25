@@ -223,6 +223,7 @@ python easy/2025-08-12/two_sum.py
 | 2025-12-30 | Easy | 514 |
 | 2025-12-31 | Easy | 1619 |
 | 2026-01-01 | Easy | 2068 |
+| 2026-01-02 | Easy | 2085 |
 ---
 
 📌 **Platform:** [LeetCode](https://leetcode.com/u/shefa19/)
